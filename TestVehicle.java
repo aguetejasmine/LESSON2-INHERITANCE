@@ -93,7 +93,7 @@ public class TestVehicle {
         scanner.nextLine();
         System.out.print("Fuel Type: "); 
         String motoFuel = scanner.nextLine(); 
-        
+
         System.out.print("Has Sidecar? (true/false): "); 
         boolean hasSideCar = scanner.nextBoolean(); 
 
@@ -108,7 +108,7 @@ public class TestVehicle {
  
         scanner.close(); 
     } 
-} 
+}
 
 
 
